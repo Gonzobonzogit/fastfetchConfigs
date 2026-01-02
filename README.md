@@ -12,7 +12,7 @@ If you are wanting to use a config, and want to add in your own ASCII art(i.e. u
     toilet gonzo    
     ```
 
-This will give you your ASCII art, for this example i am using my name, but literally anything can be used.
+## This will give you your ASCII art, for this example i am using my name, but literally anything can be used.
 
 
 ``` bash
